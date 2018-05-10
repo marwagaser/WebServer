@@ -1,0 +1,4 @@
+-First generation 1945 – 1955 [The code breaker]
+•vacuum tubes, plug boards
+•early days, a single group of people (usually engineers) designed, built, programmed, operated, and maintained each machine.
+•All programming was done in absolute machine language, or even worse yet, by wiring up electrical circuits by connecting thousands of cables to plugboards to control the machine’s basic functions

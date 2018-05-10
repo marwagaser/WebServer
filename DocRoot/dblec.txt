@@ -1,0 +1,5 @@
+-Index vs. key vs. Clustering
+–Key: logical concept
+–Index: a secondary storage data structure
+–Clustering: disk/page organizational issue
+–According to which column the data is stored in pages

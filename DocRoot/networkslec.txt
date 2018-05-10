@@ -1,0 +1,18 @@
+Web page consists of objects
+Object can be HTML file, JPEG image, Java applet, audio file,…
+Web page consists of base HTML-file which includes several referenced objects
+Each object is addressable by a URL
+
+
+HTTP 0.9: the single line protocol
+Request is a single ASCII character string
+Response is an ASCII characters stream terminated by CRLF
+Server response is HTML
+Connection terminated after document transfer
+
+
+HTTP 1.0
+Multiple header lines in requests and responses
+Status codes in response
+Response not restricted to HTML
+Non-persistent TCP connections
